@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [ConnectionStringsStorage.cs](./CS/DXWebApplication21/ConnectionStringsStorage.cs) (VB: [Form1.vb](./VB/DXWebApplication21/ConnectionStringsStorage.vb))
+* [ConnectionStringsStorage.cs](./CS/DXWebApplication21/ConnectionStringsStorage.cs) (VB: [ConnectionStringsStorage.vb](./VB/DXWebApplication21/ConnectionStringsStorage.vb))
 * [MyJsonConnection.cs](./CS/DXWebApplication21/MyJsonConnection.cs) (VB: [MyJsonConnection.vb](./VB/DXWebApplication21/MyJsonConnection.vb))
 * [Global.asax.cs](./CS/DXWebApplication21/Global.asax.cs) (VB: [Global.asax.vb](./VB/DXWebApplication21/Global.asax.vb))
 

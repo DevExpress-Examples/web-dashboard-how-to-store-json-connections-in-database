@@ -13,7 +13,7 @@
 <body runat="server" id="Body">
     <form id="form1" runat="server">
         <div style="position: absolute; left: 0; top: 0; right: 0; bottom: 0;">
-            <dx:ASPxDashboard ID="ASPxDashboard1" runat="server" Width="100%" Height="100%" UseDashboardConfigurator="true" UseNeutralFilterMode="true">
+            <dx:ASPxDashboard ID="ASPxDashboard1" runat="server" Width="100%" Height="100%" UseDashboardConfigurator="true" CanCreateNewJsonDataSource="true" UseNeutralFilterMode="true">
             </dx:ASPxDashboard>
         </div>
     </form>

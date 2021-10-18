@@ -10,9 +10,9 @@ Namespace DXWebApplication21
         Private Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
             Web.Routing.RouteTable.Routes.MapPageRoute("defaultRoute", "", "~/Default.aspx")
              ''' Cannot convert AssignmentExpressionSyntax, System.NullReferenceException: Object reference not set to an instance of an object.
-'''    at ICSharpCode.CodeConverter.VB.NodesVisitor.VisitAssignmentExpression(AssignmentExpressionSyntax node)
+'''    at ICSharpCode.CodeConverter.VB.NodesVisitor.VisitAssignmentExpression(AssignmentExpressionSyntax node) in D:\DXVCS\CSharpToVB\CSharpToVB\CodeConverter-master\CodeConverter\VB\NodesVisitor.cs:line 1211
 '''    at Microsoft.CodeAnalysis.CSharp.CSharpSyntaxVisitor`1.Visit(SyntaxNode node)
-'''    at ICSharpCode.CodeConverter.VB.CommentConvertingVisitorWrapper`1.Accept(SyntaxNode csNode, Boolean addSourceMapping)
+'''    at ICSharpCode.CodeConverter.VB.CommentConvertingVisitorWrapper`1.Accept(SyntaxNode csNode, Boolean addSourceMapping) in D:\DXVCS\CSharpToVB\CSharpToVB\CodeConverter-master\CodeConverter\VB\CommentConvertingVisitorWrapper.cs:line 26
 ''' 
 ''' Input:
 '''             DevExpress.Web.ASPxWebControl.CallbackError += new System.EventHandler(this.Application_Error)
